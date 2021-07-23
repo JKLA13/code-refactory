@@ -90,7 +90,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Combined code above for same properties to clean up wet code */
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,7 +105,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Combined code above for same properties to clean up wet code */
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,7 +121,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Combined code above for same properties to clean up wet code */
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* Combined code above for same properties to clean up wet code
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -165,7 +165,7 @@ p {
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-/* Combined code above for same properties to clean up wet code */
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .online-reputation-management img {
     max-height: 200px;
 }
@@ -178,7 +178,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Combined code above for same properties to clean up wet code */
+/* Condensed rulesets above with redundant properties to clean up wet code */
 /* .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
